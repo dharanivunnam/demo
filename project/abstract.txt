@@ -1,0 +1,19 @@
+Velagapudi Ramakrishna Siddhartha Engineering College Department of Information Technology
+Class: 3rdYear Section: A Year: 2020-2021
+
+CRAFT BOX
+Motivation:
+	The main problem faced by handicraftsmen is the place to sell their products. In the unorganised way these products are being sold by showroom owners at much higher prices but they are paid surprisingly small amounts for the excellent work they do.
+
+Problem Description:
+	Our vision is to support handicraftsmen and make the process of selling easy for them. By this different handicraftsmen can directly interact with the customers and sell their piece of art at their willing price.
+Social Benefits:
+•	Handicraftsmen can reach a large audience for selling their products.
+•	They can sell their piece of art at their willing price.
+•	Customers can directly interact with sellers.
+Innovation and Uniqueness:
+	Our app is build using android studio. In this app the customers can directly contact with the sellers.
+Feasible Solution:
+	
+We are developing an app to support handicraftsmen and make the process of selling easy for them. By this different handicraftsmen can directly interact with the customers and sell their piece of art at their willing price.
+
